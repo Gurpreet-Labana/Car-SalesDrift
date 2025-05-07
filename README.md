@@ -1,4 +1,4 @@
-#  🚗 Car-SalesDrift (Car Sales Analysis Dashboard
+#  🚗 Car-SalesDrift (Car Sales Analysis Dashboard)
 
 A modern, interactive Power BI dashboard that provides key insights into car sales performance over time. This project empowers data-driven decision-making by visualizing sales trends, average pricing, and unit performance using clean data and DAX-powered metrics.
 
