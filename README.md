@@ -43,11 +43,11 @@ To design and develop a dynamic Car Sales Dashboard in **Power BI** that:
 
 ### 🔍 Overview
 
-![Dashboard Overview](https://drive.google.com/file/d/1rFfrBEPJCyXXQNG6fNWHTO7yVIe6e6ch/view?usp=sharing)
+![Dashboard Overview](https://github.com/Gurpreet-Labana/Car-SalesDrift/blob/main/316725243-221e1e2e-1a06-4e69-8462-cfc2856471f4.png)
 
 ### 📋 Detailed Analysis
 
-![Dashboard Details](https://imgur.com/a/l4sK7Rw)
+![Dashboard Details](https://github.com/Gurpreet-Labana/Car-SalesDrift/blob/main/316725254-de641fcd-cd48-4c50-bae6-61aea3ca4e4c.png)
 
 ---
 
